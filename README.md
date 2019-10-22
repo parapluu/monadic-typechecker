@@ -5,4 +5,8 @@ The design is based on the compiler for the language
 [Encore](https://github.com/parapluu/encore), but the language has
 been simplified to make the presentation more clean.
 
-This documentation will be improved soon!
+The latest version of the source code can be found in
+[typechecker](typechecker) directory. There is also a snapshot of
+the artifact as submitted to SLE'19 in the [artifact](artifact)
+directory. This artifact contains a detailed walkthrough of the
+source code.
